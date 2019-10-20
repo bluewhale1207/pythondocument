@@ -118,3 +118,12 @@
 
 - [Requests vs. urllib：它解决了什么问题？](./Requests vs. urllib：它解决了什么问题？.md)
 
+- [更好的Python对象序列化方法](./更好的Python对象序列化方法.md)
+
+- [使用列表推导式实现zip](./使用列表推导式实现zip.md)
+
+- [Python项目中的Makefiles](/Python项目中的Makefiles.md)
+    
+    在Python项目中，你需要像makefile这种东西吗？
+
+- [婚礼规模：我是如何使用Twilio, Python和Google来自动化我的婚礼的](./婚礼规模：我是如何使用Twilio, Python和Google来自动化我的婚礼的.md)
